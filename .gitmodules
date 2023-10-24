@@ -1,0 +1,15 @@
+[submodule "terminal-individual-telegram-bot"]
+	path = terminal-individual-telegram-bot
+	url = https://gitlab.com/Javabek/terminal-individual-telegram-bot.git
+[submodule "terminalindv"]
+	path = terminalindv
+	url = https://gitlab.com/Javabek/terminalindv.git
+[submodule "terminal-individual-api"]
+	path = terminal-individual-api
+	url = https://gitlab.com/Javabek/terminal-individual-api.git
+[submodule "terminal-individual-core"]
+	path = terminal-individual-core
+	url = https://gitlab.com/Javabek/terminal-individual-core.git
+[submodule "terminal-individual-web"]
+	path = terminal-individual-web
+	url = https://gitlab.com/Javabek/terminal-individual-web.git
